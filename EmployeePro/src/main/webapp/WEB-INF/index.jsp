@@ -12,7 +12,7 @@
 <body>
 	<div align="center">
 	<h1>Employee Details</h1>	
-	<a href="new">Create new Employee</a>
+	<a href="/new">Create new Employee</a>
 	<br/><br/>
 		<table border="2" width="70%" cellpadding="4">
 			<thead>
